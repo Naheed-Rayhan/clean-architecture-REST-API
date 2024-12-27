@@ -4,6 +4,7 @@
 
 A feature-rich REST API prototype designed for managing an online learning platform, built with Go, using **Gin** as the web framework and **Sqlite3** for database interactions. This API allows course management, user management, enrollment handling, and more.
 
+
 It Follows `Clean Architecture`
 For more details, visit the [Clean Architecture in Golang](https://github.com/bxcodec/go-clean-arch).
 
